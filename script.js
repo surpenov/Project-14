@@ -58,7 +58,7 @@ const messages = [
     "Really suree??",
     "Really really really sureeee?",
     "Pookie dookie pleaseeee",
-    "Pleaaaaaseeeee!",
+    "Pleaaaaaseeeee",
     "I will be very saddd",
     "I will be very very very saddd",
     "If you say no, I will be super duper pooper depresseddd",
