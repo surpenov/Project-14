@@ -37,6 +37,11 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
+
+  .buttons: hover{
+   opcity: 0.8;
+   transition: 1.5s;
+  }
   
   .no-button {
     font-size: 1.5em;
